@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PRO ACCESS</title>
+        <item>
+            <title>1.8.1</title>
+            <pubDate>Sat, 07 Nov 2026 15:01:41 +0100</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FrancoisDurroux/PRO-ACCESS-UPDATES/releases/download/v1.8.1/PRO-ACCESS-v1.8.1.zip" length="2343747" type="application/octet-stream" sparkle:edSignature="VhQMoWMbWc5Lyz88xk/1hqipxpcgcLIH99JEGLDinA03szX93OdPOxZV3M4b89F++VrvzFZvlxT8TF8ZgB6QBg=="/>
+        </item>
+    </channel>
+</rss>
