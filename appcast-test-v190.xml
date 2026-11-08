@@ -8,7 +8,7 @@
             <sparkle:version>110</sparkle:version>
             <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/FrancoisDurroux/PRO-ACCESS-UPDATES/releases/download/v1.9.0/PRO-ACCESS-v1.9.0.zip" length="2397864" type="application/octet-stream" sparkle:edSignature="mVabv40xl7edzGA6rguys6v6YDAo11QMjhxKXHsvDYW5t+j4h7pfJ9aZw7yZGIsM+1vSlW2vZVjltSKPoar+Aw==" />
+            <enclosure url="https://raw.githubusercontent.com/FrancoisDurroux/PRO-ACCESS-UPDATES/main/PRO-ACCESS-v1.9.0.zip" length="2397864" type="application/octet-stream" sparkle:edSignature="mVabv40xl7edzGA6rguys6v6YDAo11QMjhxKXHsvDYW5t+j4h7pfJ9aZw7yZGIsM+1vSlW2vZVjltSKPoar+Aw==" />
         </item>
         <item>
             <title>1.8.3</title>
