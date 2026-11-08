@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PRO ACCESS</title>
+        <item>
+            <title>1.9.0</title>
+            <pubDate>Sat, 07 Nov 2026 23:51:07 +0100</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FrancoisDurroux/PRO-ACCESS-UPDATES/releases/download/v1.9.0/PRO-ACCESS-v1.9.0.zip" length="2397864" type="application/octet-stream" sparkle:edSignature="mVabv40xl7edzGA6rguys6v6YDAo11QMjhxKXHsvDYW5t+j4h7pfJ9aZw7yZGIsM+1vSlW2vZVjltSKPoar+Aw==" />
+        </item>
+        <item>
+            <title>1.8.3</title>
+            <pubDate>Sat, 07 Nov 2026 22:36:07 +0100</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FrancoisDurroux/PRO-ACCESS-UPDATES/releases/download/v1.8.3/PRO-ACCESS-v1.8.3.zip" length="2343810" type="application/octet-stream" sparkle:edSignature="d19aySa/1vuPcGDYXGU/GwLrX1/jppMh6b430UhHngYFaKlf746Zh6vD3e3OoKkII/SCPjrvsSelIK97XNwDCw==" />
+        </item>
+        <item>
+            <title>1.8.2</title>
+            <pubDate>Sat, 07 Nov 2026 20:43:51 +0100</pubDate>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FrancoisDurroux/PRO-ACCESS-UPDATES/releases/download/v1.8.2/PRO-ACCESS-v1.8.2.zip" length="2336657" type="application/octet-stream" sparkle:edSignature="bJZJRozi5lZva2zDrTd+Db5W4DWEl5Wwm2qLrHZlFdMMQ9DPLuNlmWeD/7C56O/Na412TiSQ0nf4mkmBvPg/Dg==" />
+        </item>
+    </channel>
+</rss>
