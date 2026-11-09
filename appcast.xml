@@ -3,6 +3,14 @@
     <channel>
         <title>PRO ACCESS</title>
         <item>
+            <title>1.9.1</title>
+            <pubDate>Mon, 09 Nov 2026 12:07:59 +0100</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/FrancoisDurroux/PRO-ACCESS-UPDATES/main/PRO-ACCESS-v1.9.1.zip" length="2389093" type="application/octet-stream" sparkle:edSignature="8J2BKdZoT/Tf6ZhKrGxCYwj5qh+zTDgDABEq+rNzDsxrfDIpe/QgXhxrkRRdnztLWdWEGCahOjMjq3Z/9zFNDQ==" />
+        </item>
+        <item>
             <title>1.9.0</title>
             <pubDate>Sat, 07 Nov 2026 23:51:07 +0100</pubDate>
             <sparkle:version>110</sparkle:version>
